@@ -1,0 +1,13 @@
+{
+  "name": "bpd-network",
+  "version": "1.0.0",
+  "description": "Baltimore Police Department Discord Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.19.3",
+    "dotenv": "^16.4.7"
+  }
+}
